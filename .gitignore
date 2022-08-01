@@ -1,0 +1,7 @@
+.env
+/venv
+/.idea
+*.DS_Store
+*.pyc
+__pycache__
+/springnews/__pycache__

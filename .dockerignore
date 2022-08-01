@@ -1,0 +1,13 @@
+.git
+.gitignore
+.cache
+venv
+/.idea
+*.DS_Store
+*.pyc
+__pycache__
+/springnews/__pycache__
+nginx
+Dockerfile
+Dockerfile.prod
+docker-compose.yml
